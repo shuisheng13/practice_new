@@ -16,6 +16,11 @@ public class HelloGc {
         for(;;){
             byte[] bytes = new byte[1024*1024];
             list.add(bytes);
+            try {
+                Thread.sleep(1);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
         }
 
 
