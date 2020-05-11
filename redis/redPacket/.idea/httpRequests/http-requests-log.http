@@ -1,0 +1,400 @@
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-14T092210.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T092818.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T092744.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T092705.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T092545.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T092503.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T092359.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T091951.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T091846.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T091753.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T091519.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T091344.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T091225.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T091156.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T091029.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T090938.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T090634.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T090531.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T090318.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T090308.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T090234.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T090152.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T090122.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T090105.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T085916.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T085818.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T085720.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T085339.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T085257.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T085233.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T085157.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T085010.200.txt
+
+###
+
+GET http://localhost:8090/pushRedPacket
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T084749.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=005&actileId=2
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T035919.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=005&actileId=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T035914.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=004&actileId=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T035909.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=003&actileId=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T035903.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=002&actileId=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T035857.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=001&actileId=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T035846.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=001&actileId=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T035628.200.txt
+
+###
+
+GET http://localhost:8090/pushActile?userId=001
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T035615.200.txt
+
+###
+
+GET http://localhost:8090/pushActile?userId=001
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T035606.200.txt
+
+###
+
+GET http://localhost:8090/selectActile?actileId=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T034338.200.txt
+
+###
+
+GET http://localhost:8090/selectActile?actileId=5
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T034322.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=005&actileId=5
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033529.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=005&actileId=5
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033528.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=004&actileId=5
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033513.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=004&actileId=5
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033512.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=003&actileId=5
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033505.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=003&actileId=5
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033504-2.200.txt
+
+###
+

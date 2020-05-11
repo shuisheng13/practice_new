@@ -1,0 +1,86 @@
+GET http://localhost:8090/sale?count=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T125311.200.json
+
+###
+
+GET http://localhost:8090/sale?count=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T125144.200.json
+
+###
+
+GET http://localhost:8090/sale?count=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T124959.200.json
+
+###
+
+GET http://localhost:8090/sale?count=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T124843.200.json
+
+###
+
+GET http://localhost:8090/sale?count=1000
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T124756.200.json
+
+###
+
+GET http://localhost:8090/sale?count=1000
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T124646.200.json
+
+###
+
+GET http://localhost:8090/sale?count=1000
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T124612.200.json
+
+###
+
+GET http://localhost:8090/sale?count=1000
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T124608.200.json
+
+###
+
+GET http://localhost:8090/sale?count=1000
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T124016.200.json
+
+###
+
+GET http://localhost:8090/sale?count=1000
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T123759.200.json
+
+###
+
+GET http://localhost:8080/sale?count=1000
+Accept: */*
+Cache-Control: no-cache
+
+###
+

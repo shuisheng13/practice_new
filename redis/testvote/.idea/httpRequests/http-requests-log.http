@@ -1,0 +1,400 @@
+GET http://localhost:8090/vote?userId=005&actileId=2
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T035919.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=005&actileId=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T035914.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=004&actileId=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T035909.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=003&actileId=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T035903.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=002&actileId=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T035857.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=001&actileId=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T035846.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=001&actileId=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T035628.200.txt
+
+###
+
+GET http://localhost:8090/pushActile?userId=001
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T035615.200.txt
+
+###
+
+GET http://localhost:8090/pushActile?userId=001
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T035606.200.txt
+
+###
+
+GET http://localhost:8090/selectActile?actileId=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T034338.200.txt
+
+###
+
+GET http://localhost:8090/selectActile?actileId=5
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T034322.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=005&actileId=5
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033529.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=005&actileId=5
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033528.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=004&actileId=5
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033513.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=004&actileId=5
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033512.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=003&actileId=5
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033505.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=003&actileId=5
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033504-2.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=003&actileId=5
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033504-1.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=003&actileId=5
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033504.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=003&actileId=5
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033502.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=003&actileId=5
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033457.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=003&actileId=5
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033454.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=002&actileId=5
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033449.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=002&actileId=5
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033448.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=001&actileId=5
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033442.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=001&actileId=5
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033440.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=005&actileId=4
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033422.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=005&actileId=4
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033420.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=004&actileId=4
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033402.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=004&actileId=4
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033400.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=003&actileId=4
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033354.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=003&actileId=4
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033353.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=002&actileId=4
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033344.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=002&actileId=4
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033342.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=001&actileId=4
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033334.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=001&actileId=4
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033333.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=005&actileId=3
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033320.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=005&actileId=3
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033319.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=004&actileId=3
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033312.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=004&actileId=3
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033311.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=003&actileId=3
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033249.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=003&actileId=3
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033246.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=002&actileId=3
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033241.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=002&actileId=3
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033240.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=001&actileId=3
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033233.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=001&actileId=3
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033231.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=005&actileId=2
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033219.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=005&actileId=2
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033217.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=004&actileId=2
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033208.200.txt
+
+###
+
+GET http://localhost:8090/vote?userId=004&actileId=2
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-13T033207.200.txt
+
+###
+
