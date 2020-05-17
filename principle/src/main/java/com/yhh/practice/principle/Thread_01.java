@@ -18,7 +18,7 @@ public class Thread_01 {
             }
         };
 
-        int size = 1000000;
+        int size = 1000;
 
         Thread[] threads =new  Thread[size];
         for (int i = 0; i < threads.length; i++) {
@@ -37,12 +37,17 @@ public class Thread_01 {
     }
 
     static void calc() {
-        int result = 0;
-        for (int m = 0; m < 10000; m++) {
-            for (int a = 0; a < 200; a++) {
-                result++;
-
-            }
-        }
+        System.out.println("hello word");
     }
+
+
+//    static void calc() {
+//        int result = 0;
+//        for (int m = 0; m < 10000; m++) {
+//            for (int a = 0; a < 200; a++) {
+//                result++;
+//
+//            }
+//        }
+//    }
 }

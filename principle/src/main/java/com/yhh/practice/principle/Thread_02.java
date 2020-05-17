@@ -15,7 +15,7 @@ public class Thread_02 {
     public static void main(String[] args) throws Exception{
 
         long start = System.currentTimeMillis();
-        int size = 1000000;
+        int size = 2000000;
 
         Fiber<Void>[] fibers = new Fiber[size];
 
@@ -45,14 +45,17 @@ public class Thread_02 {
 
     }
 
-
-
     static void calc() {
-        int result = 0;
-        for (int m = 0; m < 10000; m++) {
-            for (int i = 0; i < 200; i++){
-                result++;
-            }
-        }
+        System.out.println("hello word");
     }
+
+
+//    static void calc() {
+//        int result = 0;
+//        for (int m = 0; m < 10000; m++) {
+//            for (int i = 0; i < 200; i++){
+//                result++;
+//            }
+//        }
+//    }
 }

@@ -28,7 +28,7 @@
       <file leaf-file-name="ThreadLocalOomThread.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/pratice/thread/threadlocal/ThreadLocalOomThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
+            <state relative-caret-position="666">
               <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -226,20 +226,7 @@
             </path>
             <path>
               <item name="thread" type="b2602c69:ProjectViewProjectNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
-              <item name="waitAndNotify" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="thread" type="b2602c69:ProjectViewProjectNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="daemon" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -403,14 +390,16 @@
       <workItem from="1586654718741" duration="7160000" />
       <workItem from="1588311011289" duration="3880000" />
       <workItem from="1588586800371" duration="40000" />
+      <workItem from="1589206981136" duration="500000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46478000" />
+    <option name="totallyTimeSpent" value="46978000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="961" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -420,19 +409,20 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.33641025" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26495728" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26800978" />
+      <window_info anchor="bottom" id="Profiler" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.22853829" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32923076" />
@@ -624,9 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -641,12 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
           <caret line="81" column="35" selection-start-line="81" selection-start-column="35" selection-end-line="81" selection-end-column="35" />
-          <folding>
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#801#802#0" expanded="true" />
-            <element signature="e#847#848#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -661,12 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-149">
           <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
-          <folding>
-            <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#885#886#0" expanded="true" />
-            <element signature="e#939#940#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -674,10 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-305">
           <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding>
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -685,10 +656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1044">
           <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
-          <folding>
-            <element signature="e#881#882#0" expanded="true" />
-            <element signature="e#914#915#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -703,12 +670,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="24" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="24" />
-          <folding>
-            <element signature="e#1946#1947#0" expanded="true" />
-            <element signature="e#2001#2002#0" expanded="true" />
-            <element signature="e#2315#2316#0" expanded="true" />
-            <element signature="e#2370#2371#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -787,7 +748,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yhh/pratice/thread/threadlocal/ThreadLocalOomThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
+        <state relative-caret-position="666">
           <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
